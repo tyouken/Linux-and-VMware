@@ -1,4 +1,4 @@
-使用VMware克隆一个新虚拟机，启动系统后ens33的ip地址可能无法使用，尝试重启网络后，会发生如下错误：
+使用VMware克隆一个新虚拟机，启动系统后，虚拟网卡ens33的ip地址可能无法使用，尝试重启网络后，会发生如下错误：
 Job for network.service failed because the control process exited with error code
 network.service - LSB: Bring up/down networking
 Loaded: loaded (/etc/rc.d/init.d/network; bad; vendor preset: disabled)
